@@ -1,6 +1,6 @@
 import { MaterialPlayerPage } from './app.po';
 
-describe('material-player App', function() {
+describe('material-player App', () => {
   let page: MaterialPlayerPage;
 
   beforeEach(() => {
